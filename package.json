@@ -1,0 +1,19 @@
+{
+  "name": "lambdahelper",
+  "version": "1.0.0",
+  "description": "helper functions for working with AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abiglobalhealth/lambdahelper.git"
+  },
+  "author": "Yonah Forst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abiglobalhealth/lambdahelper/issues"
+  },
+  "homepage": "https://github.com/abiglobalhealth/lambdahelper#readme"
+}
