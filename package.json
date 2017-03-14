@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abiglobalhealth/lambdahelper/issues"
   },
-  "homepage": "https://github.com/abiglobalhealth/lambdahelper#readme"
+  "homepage": "https://github.com/abiglobalhealth/lambdahelper#readme",
+  "devDependencies": {
+    "blue-tape": "^1.0.0"
+  }
 }
