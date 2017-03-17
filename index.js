@@ -1,9 +1,11 @@
-var handler = require('./handler')
-var parse = require('./parse')
-var lambdaProxyResponse = require('./lambdaProxyResponse')
+var parse = require('./lib/parse')
+var handler = require('./lib/handler')
+var lambdaProxyResponse = require('./lib/lambdaProxyResponse')
+var parseInvokeResponse = require('./lib/parseInvokeResponse')
 
 module.exports = {
-	handler,
 	parse,
+	handler,
 	lambdaProxyResponse,
+	parseInvokeResponse,
 }
