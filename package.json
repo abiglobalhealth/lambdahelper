@@ -1,6 +1,6 @@
 {
   "name": "lambdahelper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helper functions for working with AWS Lambda",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/abiglobalhealth/lambdahelper/issues"
   },
-  "homepage": "https://github.com/abiglobalhealth/lambdahelper#readme",
-  "devDependencies": {
-    "blue-tape": "^1.0.0"
-  }
+  "homepage": "https://github.com/abiglobalhealth/lambdahelper#readme"
 }
